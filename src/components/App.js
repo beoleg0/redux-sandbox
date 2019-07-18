@@ -6,3 +6,5 @@ const App = () => {
     <Counter/>
   );
 };
+
+export default App;
